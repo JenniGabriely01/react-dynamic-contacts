@@ -1,0 +1,161 @@
+[
+    {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "sebastian",
+          "last": "olsen"
+        },
+        "location": {
+          "street": "6462 kongevej",
+          "city": "horsens",
+          "state": "hovedstaden",
+          "postcode": 65147,
+          "coordinates": {
+            "latitude": "-60.4925",
+            "longitude": "-24.1447"
+          },
+          "timezone": {
+            "offset": "0:00",
+            "description": "Western Europe Time, London, Lisbon, Casablanca"
+          }
+        },
+        "email": "sebastian.olsen@example.com",
+        "login": {
+          "uuid": "e8326412-0a59-4933-ac8c-ae040b2d0ef2",
+          "username": "orangezebra728",
+          "password": "dentist",
+          "salt": "lCkb4L7t",
+          "md5": "81eb1170bb3a23667f4c0ba68b031008",
+          "sha1": "f83aee56e11e4274f7f9540090047a5a7d1cc355",
+          "sha256": "7e7cea2e3466f582ab3535799eaf3bcc02ace53631578f768e080c7d7957341c"
+        },
+        "dob": {
+          "date": "1949-08-03T11:41:04Z",
+          "age": 70
+        },
+        "registered": {
+          "date": "2017-02-11T06:49:28Z",
+          "age": 2
+        },
+        "phone": "09034853",
+        "cell": "06039028",
+        "id": {
+          "name": "CPR",
+          "value": "330315-2569"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/44.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/44.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/44.jpg"
+        },
+        "nat": "DK"
+    },
+    {
+        "gender": "female",
+        "name": {
+          "title": "mrs",
+          "first": "clara",
+          "last": "göring"
+        },
+        "location": {
+          "street": "poststraße 5",
+          "city": "hillesheim",
+          "state": "thüringen",
+          "postcode": 89341,
+          "coordinates": {
+            "latitude": "-30.3047",
+            "longitude": "-32.7080"
+          },
+          "timezone": {
+            "offset": "+8:00",
+            "description": "Beijing, Perth, Singapore, Hong Kong"
+          }
+        },
+        "email": "clara.göring@example.com",
+        "login": {
+          "uuid": "b611159f-7f83-4512-bbfb-83ef8472cff8",
+          "username": "purpleleopard450",
+          "password": "lillie",
+          "salt": "JwS6gVT7",
+          "md5": "0e1c158f5f60740da35c62bbd37b0908",
+          "sha1": "ee494380ceb2d799e81fd4d0cda66c915fe221d3",
+          "sha256": "56573822c8bf6775244bf459078d81c36718701750516a9121489b844ed3fd63"
+        },
+        "dob": {
+          "date": "1996-02-23T05:40:03Z",
+          "age": 23
+        },
+        "registered": {
+          "date": "2006-10-24T09:22:49Z",
+          "age": 12
+        },
+        "phone": "0328-6873851",
+        "cell": "0179-4610401",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/70.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+        },
+        "nat": "DE"
+    },
+    {
+        "gender": "male",
+        "name": {
+          "title": "mr",
+          "first": "mads",
+          "last": "sundet"
+        },
+        "location": {
+          "street": "marsveien 3715",
+          "city": "moen",
+          "state": "buskerud",
+          "postcode": "7583",
+          "coordinates": {
+            "latitude": "-85.5443",
+            "longitude": "-58.0764"
+          },
+          "timezone": {
+            "offset": "0:00",
+            "description": "Western Europe Time, London, Lisbon, Casablanca"
+          }
+        },
+        "email": "mads.sundet@example.com",
+        "login": {
+          "uuid": "950efb16-e6e3-40c2-b457-1a71b188640a",
+          "username": "beautifulleopard771",
+          "password": "christy",
+          "salt": "ERtYUShC",
+          "md5": "409f948fba58f72d40e309f4b1241640",
+          "sha1": "81358b32663b65a7c7c8d41bbf8d6b188ee8c58e",
+          "sha256": "988b32457eab52d5bc91084f935fa346ddd7e8c4a959292ee3563b85ff58cd6c"
+        },
+        "dob": {
+          "date": "1995-10-03T01:42:53Z",
+          "age": 23
+        },
+        "registered": {
+          "date": "2006-04-28T21:17:56Z",
+          "age": 13
+        },
+        "phone": "51422878",
+        "cell": "46241549",
+        "id": {
+          "name": "FN",
+          "value": "03109545618"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/46.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+        },
+        "nat": "NO"
+      }
+   
+    
+    
+]
